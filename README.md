@@ -8,10 +8,10 @@
 ---
 
 ## 🧠 About Me
-- 🔭 Working on **Spring Boot & AI Projects**
-- 🌱 Learning **System Design & Microservices**
-- 💬 Ask me about **Java, REST APIs**
-- 📫 Reach me: **your-email@gmail.com**
+- 🔭 Working on Spring Boot & AI Projects
+- 🌱 Learning System Design & Microservices
+- 💬 Ask me about Java, REST APIs
+- 📫 Reach me: aishwaryabehare@gmail.com
 
 ---
 
