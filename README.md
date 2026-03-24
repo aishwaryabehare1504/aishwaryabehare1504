@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Behare</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Java+%7C+Spring+Boot;REST+API+Developer&center=true&width=500&height=45">
+Building backend systems that solve real-world problems
 </p>
 
 ---
