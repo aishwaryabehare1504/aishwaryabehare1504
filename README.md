@@ -1,67 +1,78 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Behare</h1>
-<h3 align="center">🚀 Java Backend Developer | Spring Boot | AI Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Spring+Boot+Engineer;Backend+Developer&center=true&width=500&height=50">
+🚀 Java Backend Developer | Spring Boot | REST APIs | AI Enthusiast
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Spring+Boot+Engineer;Building+Scalable+APIs&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🧠 About Me
-- 🔭 Working on Spring Boot & AI Projects
-- 🌱 Learning System Design & Microservices
-- 💬 Ask me about Java, REST APIs
-- 📫 Reach me: aishwaryabehare@gmail.com
+## 👩‍💻 About Me
+- 💻 Backend Developer focused on **Java & Spring Boot**
+- 🚀 Built real-world projects using **REST APIs & Microservices**
+- 🌱 Currently learning **System Design**
+- 🎯 Goal: Become a **Top Backend Engineer**
 
 ---
 
-## 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/aishwarya-behare-45191b307/)
+## 🛠 Tech Stack
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,postman,python,git,github" />
+
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+## 🚀 Featured Projects
+<p align="center">
 
----
+<a href="https://github.com/aishwaryabehare1504/email-writer-sb1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aishwaryabehare1504&repo=email-writer-sb1&theme=tokyonight" />
+</a>
 
-## 🚀 Projects
-### ✉️ AI Email Writer
-- Generates email replies using Gemini API
+<a href="https://github.com/aishwaryabehare1504/jbportal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aishwaryabehare1504&repo=jbportal&theme=tokyonight" />
+</a>
 
-### 💼 Job Portal System
-- User authentication & job management system
+<a href="https://github.com/aishwaryabehare1504/shipping-charge-estimator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aishwaryabehare1504&repo=shipping-charge-estimator&theme=tokyonight" />
+</a>
 
-### 🚚 Shipping Cost Estimator
-- Distance-based shipping calculation
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aishwaryabehare1504&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aishwaryabehare1504&show_icons=true&theme=tokyonight" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryabehare1504&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=aishwaryabehare1504&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌐 Connect With Me
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aishwaryabehare1504&theme=onedark" />
+<a href="https://www.linkedin.com/in/aishwarya-behare-45191b307/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
+
+---
+
+<p align="center">
+⭐ Star my repositories if you like my work!
 </p>
